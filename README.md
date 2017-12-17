@@ -1,0 +1,2 @@
+# CareseekersBlockchain
+A blockchain based secure network for patient's to share encrypted medical records, medical devices and sensor's data which can be accessed by caregivers, doctors and accept medical advice and apply telemedicine technology as a concept of virtual hospital where every interaction, document and medical advice will be added in a decentralized ledger while also verifying accuracy of medical record shared.
