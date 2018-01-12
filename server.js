@@ -1,6 +1,7 @@
 var formidable = require('formidable'),
  util = require('util'),
  express = require('express'),
+ mongoose = require('mongoose'),
  fs = require('fs'),
  app = express();
  app.use(express.static(__dirname, '/public'));
